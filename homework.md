@@ -101,14 +101,3 @@ Using the zone lookup data and the fhvhv June 2021 data, what is the name of the
 </br></br>
 
 **ANSWER**: Crown Heights North
-
-## Submitting the solutions
-
-* Form for submitting: https://forms.gle/EcSvDs6vp64gcGuD8
-* You can submit your homework multiple times. In this case, only the last submission will be used. 
-
-Deadline: 06 March (Monday), 22:00 CET
-
-## Solution
-
-We will publish the solution here
